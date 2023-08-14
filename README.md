@@ -22,6 +22,7 @@ Create on Virtual machine
 ![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/1ebb8aea-0d6f-45a4-8b61-b43c153ae82b)
 
 
+
 copy on ssh_id
 ![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/94d08bd3-895c-4dfc-90e5-9e30f4203ad2)
 
