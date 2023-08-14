@@ -12,6 +12,7 @@ Open on microsoft Azure portal
 Click on sign in
 
 ![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/2b374c87-dd3a-468e-b1b9-17164ac62488)
+
 I am sign in GitHub 
 
 Click  on Virtual machine
