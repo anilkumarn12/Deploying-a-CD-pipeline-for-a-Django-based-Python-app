@@ -190,3 +190,23 @@ Check on display-name and test results
 
 ![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/6a26ed82-20c7-4fc0-8661-3ff3b88e10b5)
 Next save and create release after then job is running 
+
+
+Pipelines>>Releases>>Python-CD successfully completed
+![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/1511c22c-55b6-404d-985a-ca893ac44e15)
+
+
+Open on Microsoft azure >> click on App service
+![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/bdf9e467-81ca-43f0-93cc-6c8ec02e054d)
+
+
+Click on service name
+![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/c8a8b35b-af31-4616-ab0f-d09176997f51)
+
+
+Click on Browse 
+![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/fd2503f6-d11b-4606-b8bc-9cabfbcd4c34)
+
+
+![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/5eef65b0-bc78-4e39-add0-0c22ebab8fbd)
+Azure Devops Project has been Successfully setup
