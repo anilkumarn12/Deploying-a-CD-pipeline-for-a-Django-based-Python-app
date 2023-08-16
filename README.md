@@ -211,3 +211,7 @@ Click on Browse
 
 ![image](https://github.com/anilkumarn12/Deploying-a-CD-pipeline-for-a-Django-based-Python-app/assets/134625092/5eef65b0-bc78-4e39-add0-0c22ebab8fbd)
 Azure Devops Project has been Successfully setup
+
+I am provide canva link in this project i will give an access in every one can use
+https://www.canva.com/design/DAFrZUuxjcc/qLzmMqcN22IVpryLnszJLA/edit?utm_content=DAFrZUuxjcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
